@@ -3,7 +3,8 @@
 ## Supported Versions
 
 **Disclaimer:** This project contains individual programs for learning purposes.
-Hence, it is not a software. Therefore, it will only have a `1.0` version for its lifetime.
+Hence, it is not a software. Therefore, it will only have a `1.0` version for
+its lifetime.
 
 | Version | Supported          |
 |---------|--------------------|
